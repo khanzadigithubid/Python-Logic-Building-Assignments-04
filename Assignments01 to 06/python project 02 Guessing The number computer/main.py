@@ -1,4 +1,4 @@
-#Python Project 02: Guessing the random number (Computer) by Fatima Nazeer
+#Python Project 02: Guessing the random number (Computer) by Khanzadi Wazir Ali
 import random
 
 def guess(x):
