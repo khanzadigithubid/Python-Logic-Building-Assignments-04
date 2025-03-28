@@ -1,4 +1,4 @@
-#python Project 03: Guessing the number(User) by Fatima Nazeer
+#python Project 03: Guessing the number(User) by Khanzadi Wazir Ali
 import random
 
 def computer_guess(x):
