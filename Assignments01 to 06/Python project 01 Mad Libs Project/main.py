@@ -1,4 +1,4 @@
-# Python Project 01: "The Magical Jungle Adventure" - Mad Libs by Fatima Nazeer
+# Python Project 01: "The Magical Jungle Adventure" - Mad Libs by Khanzadi Wazir Ali
 
 # User input
 name = input("Enter a name: ")
