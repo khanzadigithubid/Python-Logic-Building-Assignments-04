@@ -1,4 +1,4 @@
-#Python Project 04: Rock , Paper and Scissor by Fatima Nazeer
+#Python Project 04: Rock , Paper and Scissor by Khanzadi Wazir Ali
 import random
 
 print("\n🎉 WELCOME TO THE ROCK, PAPER, SCISSORS GAME! 🎉")
